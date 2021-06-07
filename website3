@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>School Blog</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<nav class="navbar-inverse" style="position:sticky;top:0;z-index:99999">
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">abby</a>
+    </div>
+   
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a href="#home">home</a></li>
+        <li><a href="#sports">Sports</a></li>
+        <li><a href="#activities">Activites</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </div>
+
+</nav>
+ 
+<div class="container">
+
+  <div class="page-header" id="travel">
+  <h2 class="text-capitalize">places must visit</h2>
+  </div>
+   
+  <center>
+  <div  class="sports_mainDiv">
+  <img class="img-responsive"  src="Class.jpg">
+
+  <h4 class="text-capitalize"><kbd>dodgeball</kbd></h4>
+ 
+  <hr >
+
+  <h5 class="text-success text-left text-capitalize" >put the smack down on it</h5>
+
+  <p class="text-muted text-left" >The School Games aims to provide every child with a positive experience in an environment where the young person’s motivation, competence and confidence are at the centre of the competition.
+
+The toolkit is designed to support teachers of all children (i.e. primary, secondary, special and alternative provision settings) to carefully consider their part in reducing the risk of a negative experience in sports competitions. It is intended to help you to select, prepare and support more young people to have a positive experience of competition. Click the image above to access the toolkit.  </p>
+  </div>
+  </center>
+
+<br><br>
+
+  <center>
+  <div  class="sports_mainDiv">
+  <img class="img-responsive"  src="16-dodgeball-article-cgetty.jpg">
+
+  <h4 class="text-capitalize"><kbd>soccer</kbd></h4>
+ 
+  <hr >
+
+  <h5 class="text-success text-left text-capitalize" >let's kick it up!</h5>
+
+  <p class="text-muted text-left" >Since soccer is a global sport, it has a dictionary that might not be familiar to the American fan or player. Why do the British call uniforms ‘kits’ or cleats ‘boots’? What’s a 4-4-2 and how does that work? Why do people get so worked up about relegation? We’ll cover all those terms as simply as possible to give you a guide to understanding soccer. Here’s the easiest one. The reason it’s not normally called football here is to avoid confusion. Soccer, rugby, and American football all come from the same game. They’re codes on how to play it. Even the national governing body of soccer in this country once had ‘football’ in its official name and ‘soccer’ was the common term in England prior to the 1970s. Soccer Terms
+
+To get a quick grasp on how the game is played, it’s worth considering A few basics. First off, unlike other sports where the rules change every season, soccer is very conservative. The rules of the game are called The Laws and can only be changed by a meeting of representatives from England, Scotland, Wales, and Northern Ireland. That makes changes rare and the rules fairly straightforward. You can get a copy of the Laws of the Game from FIFA. What’s FIFA? It’s the international governing body for soccer that runs the World Cup. What’s the World Cup? That’s the biggest tournament in soccer that features 32 National Teams that qualify by region. We’ll get to the specifics in a bit. For now, let’s move onto the field.</p>
+  </div>
+  </center>
+
+<br><br>
+ 
+  <center>
+  <div  class="sports_mainDiv">
+  <img class="img-responsive"  src="18254677_web1_T-sports-for-all-2.jpg">
+
+  <h4 class="text-capitalize"><kbd>basketball</kbd></h4>
+ 
+  <hr >
+
+  <h5 class="text-success text-left text-capitalize" >it's go time</h5>
+
+  <p class="text-muted text-left" >Many youth basketball coaches don't know where to start or what to teach. Well, we hope to help you out in this area. Below, we provide some advice on what to teach youth basketball players. We break it down between 3 levels. As you perfect each level, you can advance to the next level to teach more skills & concepts.
+
+All beginner players should start with Level 1 no matter the age. We put ages next to the level as a general guideline. Depending on the age and skill level, you'll progress through the levels at different rates. You may notice that you'll spend 4 years working on Level 1 with 7 to 10 year olds. At the same time, you may be able to progress to Level 2 after two weeks working with a group of 13 year olds who are playing basketball for the first time.
+
+I would advise to go back and start at Level 1 every year. A lot of high school and college coaches start at Level 1 every year. They just progress through the levels more quickly than a youth team. It's a great way to ingrain the fundamentals into your players year in and year out.
+
+We advise to take a couple of hours and write up a master practice schedule for the season, so you can progressively teach them the skills mentioned below. It may take a few years to teach all of these skills at one level and THAT'S OKAY! For youth players, we want to focus on the long-term development, not how many games they win when they're 11 years old. If you try to progress them too quickly, it will hurt them in the long-run. You want to have a solid foundation first. You shouldn't try to teach them every dribble move in one year or every option in the motion offense. The same way in which you couldn't teach a person calculus if they did not know how to do simple addition and subtraction.
+
+Important Note: Throughout this article, you'll find many links to other articles on the website to explain concepts that we advise to teach. My recommendation would be to read the entire article first, then go back and click on the links to read the other articles.
+.</p>
+  </div>
+  </center>
+
+<div class="page-header" id="activites">
+  <h2 class="text-capitalize">activites in school</h2>
+  </div>
+
+<div class="bg-primary movie_head" data-toggle="collapse" data-target="#art" >
+    <span class="glyphicon glyphicon-film" ></span> art<i class="fa fa-sort-desc" ></i>
+  </div>
+
+  <div id="art" class="collapse">
+
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  <img src="Hite+CFAC-6.jpg" class="img-responsive img-thumbnail">
+ </div>
+
+ <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 movie_text" >
+ <h5 class="text-success text-left text-capitalize">art is amazing! i love drawing there a lot!!!
+        <span class="glyphicon glyphicon-star" ></span>
+        <span class="glyphicon glyphicon-star" ></span>
+        <span class="glyphicon glyphicon-star" ></span>
+        <span class="glyphicon glyphicon-star" ></span>
+      </h5>
+ <p>art class - a class in which you learn to draw or paint. course, course of instruction, course of study, class - education imparted in a series of lessons or meetings; "he took a course in basket weaving"; "flirting is not unknown in college classes"</p>
+ </div>
+ 
+  </div>
+
+  <div class="bg-primary movie_head" data-toggle="collapse" data-target="#math" >
+    <span class="glyphicon glyphicon-film" ></span> Math<i class="fa fa-sort-desc" ></i>
+  </div>
+
+  <div id="math" class="collapse">
+
+   <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  <img src="AdobeStock_93012084-846x520.jpg" class="img-responsive img-thumbnail" >
+  </div>
+
+  <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 movie_text" >
+  <h5 class="text-success text-left text-capitalize">It's not really my strong suit
+       <span class="glyphicon glyphicon-star" ></span>
+       <span class="glyphicon glyphicon-star" ></span>
+     </h5>
+  <p>i don't really like it,but some other people like it,the thing is,it's not always going to be fun,it can get frustrating and confusing</p>
+  </div>
+  </div>
+
+
+
+  <div class="bg-primary  movie_head" data-toggle="collapse" data-target="#science" >
+    <span class="glyphicon glyphicon-film" ></span> science<i class="fa fa-sort-desc" ></i>
+  </div>
+
+  <div id="Frozen_2" class="collapse">
+<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  <img src="movie4.jpeg" class="img-responsive img-thumbnail" >
+  </div>
+
+  <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 movie_text" >
+   <h5 class="text-success text-left text-capitalize">i love doing the experiments
+        <span class="glyphicon glyphicon-star" ></span>
+        <span class="glyphicon glyphicon-star" ></span>
+        <span class="glyphicon glyphicon-star" ></span>
+        <span class="glyphicon glyphicon-star" ></span>
+      </h5>
+   <p>it's fun and cool,it's awesome to learn these new things,like,did you know,that scientists have belived to have found the end of the universe!!!!</p>
+  </div>
+      
+  </div>
+    <div class="page-header col-lg-12 col-md-12 col-sm-12 col-xs-12" id="gallery">
+<h2 class="text-capitalize">Art</h2>
+    </div>
+<ul class="list-group">
+<li class="list-group-item list-group-item-success col-lg-12 col-md-12 col-sm-12 col-xs-12 environment_li">
+<h4>Facing Hurricane and Wildfire Seasons, FEMA Is Already Worn Out</h4>
+<img src="20CLI-FEMASTAFF1-superJumbo.jpg" class="img-responsive col-lg-5 col-md-5 col-sm-5 col-xs-12">
+<p c
+lass="list-group-item-text col-lg-7 col-md-7 col-sm-7 col-xs-12">here's some pictures made by people at school :->
+</p>
+  <img class="img-responsive"  src="download%20(1).jpg">
+  <img class="img-responsive"  src="drawingadventure.jpg">
+  <img class="img-responsive"  src="IMG_20190920_0009.jpg">
+<img class="img-responsive"  src="W_2014_storm.jpg">
+  <img class="img-responsive"  src="images%20(1).jpg">
+  <img class="img-responsive"  src="Directed-Drawing.jpg">    
+    </li>
+    </ul>    
+
+
+ 
+
+    <section id="contact">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15078.353856082635!2d72.8906491!3d19.1257017!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xacf72f56793d190a!2sWHITEHAT%20EDUCATION%20TECHNOLOGY%20PVT%20LTD!5e0!3m2!1sen!2sin!4v1573468987088!5m2!1sen!2sin" height="450" frameborder="0"  allowfullscreen=""></iframe>
+
+<hr style="width: 100%;">
+<img src="PXL_20201027_171700110.jpg" class="img-responsive img-circle col-lg-3 col-md-3 col-sm-3 col-xs-4">
+<h3>ABBY SITH just joking,it's fizgerald</h3>
+
+        <div class="contact_1" >
+
+           <a href="mailto:adiafiz12007@gmail.com">
+               <h5><i class="fa fa-envelope"></i>&nbsp;&nbsp;magnolia@gmail.com</h5>
+            </a>
+
+           <a href="myinstagramid">
+               <h5><i class="fa fa-instagram" ></i>&nbsp;&nbsp;magnoliainstagramid</h5>
+            </a>
+        </div>
+
+</section>
+
+  </div>
+
+
+</body>
+</html>
